@@ -144,6 +144,9 @@ atom-text-editor {
 .syntax--string {
   color: @chill; //desaturate(@orange, 20%);
 
+  &.syntax--html.syntax--quoted {
+    color: desaturate(lighten(@blue, 5%), 40%);
+  }
 
   &.syntax--regexp {
     color: @cyan;
