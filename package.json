@@ -1,0 +1,16 @@
+{
+  "name": "killer-syntax",
+  "theme": "syntax",
+  "author": "Austin Billings <austin@austinbillings.com>",
+  "version": "0.1.0",
+  "description": "Jungle Candy Colors with sharp greys and warm style.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/austinbillings/killer-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
